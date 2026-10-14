@@ -1,6 +1,8 @@
 # cows cows cows dancing cows in POLAND
 The most legendary annoying prank program ever! (probably not, just exaggerated)
 
+(btw I tested it a couple of times and the code is steaming trash, do not use this!)
+
 ## What it does
 
 * Duplicates cows across your screen (up to 110)
